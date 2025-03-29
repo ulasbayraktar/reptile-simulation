@@ -2,6 +2,12 @@
 
 This project is a **dynamic creature simulation** built using JavaScript and HTML5 Canvas. It creates a visually engaging and interactive experience where procedurally generated creatures (e.g., reptiles, tentacles, or squid-like entities) move and respond to user input in real time.
 
+# Image
+
+![resim](https://github.com/user-attachments/assets/83b6c6ab-9599-4ee9-a03b-0dab3dac8d3c)
+
+
+
 ## Features
 
 - **Procedural Creature Generation**:
